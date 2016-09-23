@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="typeface">
+        <enum name="black_oblique" value="0" />
+        <enum name="black" value="1" />
+        <enum name="bold_oblique" value="2" />
+        <enum name="bold" value="3" />
+        <enum name="book" value="4" />
+        <enum name="condensed_black_oblique" value="5" />
+        <enum name="condensed_black" value="6" />
+        <enum name="condensed_book" value="7" />
+        <enum name="condensed_extra_light_oblique" value="8" />
+        <enum name="condensed_extra_light" value="9" />
+        <enum name="condensed_oblique" value="10" />
+        <enum name="extra_light_oblique" value="11" />
+        <enum name="extra_light" value="12" />
+        <enum name="light_oblique" value="13" />
+        <enum name="light" value="14" />
+        <enum name="oblique" value="15" />
+    </attr>
+
+    <declare-styleable name="PragmaticaTextView">
+        <attr name="typeface" />
+    </declare-styleable>
+
+    <declare-styleable name="PragmaticaEditText">
+        <attr name="typeface" />
+    </declare-styleable>
+
+    <declare-styleable name="PragmaticaButton">
+        <attr name="typeface" />
+    </declare-styleable>
+
+    <declare-styleable name="PragmaticaRadioButton">
+        <attr name="typeface" />
+    </declare-styleable>
+</resources>

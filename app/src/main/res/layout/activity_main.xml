@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="io.github.dmitrikudrenko.pragmaticatextview.sample.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16sp">
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="black_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="black" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="bold_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="bold" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="book" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_black_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_black" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_book" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_extra_light_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_extra_light" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="condensed_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="extra_light_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="extra_light" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="light_oblique" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="light" />
+
+        <io.github.dmitrikudrenko.pragmaticatextview.PragmaticaTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_text"
+            android:textSize="22sp"
+            app:typeface="oblique" />
+    </LinearLayout>
+</ScrollView>
