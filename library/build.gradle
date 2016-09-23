@@ -7,7 +7,7 @@ publish {
     publishVersion = libraryVersionName
     desc = 'Text elements (textView, editText, buttons and etc.) with Pragmatica fonts loader.'
     licences = ['Apache-2.0']
-    uploadName = 'Pragmatice-TextView'
+    uploadName = 'Pragmatica-TextView'
     website = 'https://github.com/dmitrikudrenko/Pragmatica-TextView'
 }
 
