@@ -6,6 +6,7 @@ Text elements (textView, editText, buttons and etc.) with Pragmatica fonts loade
 Download
 --------
 [ ![Download](https://api.bintray.com/packages/dmitrikudrenko/maven/Pragmatica-TextView/images/download.svg) ](https://bintray.com/dmitrikudrenko/maven/Pragmatica-TextView/_latestVersion)
+[![Build Status](https://travis-ci.org/dmitrikudrenko/Pragmatica-TextView.svg?branch=master)](https://travis-ci.org/dmitrikudrenko/Pragmatica-TextView)
 
 Maven
 ```xml
