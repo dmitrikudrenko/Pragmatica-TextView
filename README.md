@@ -3,6 +3,9 @@ Pragmatica-TextView
 
 Text elements (textView, editText, buttons and etc.) with Pragmatica fonts loader
 
+##Screenshots
+<img src="https://raw.githubusercontent.com/dmitrikudrenko/Pragmatica-TextView/master/media/screenshot_1.png" alt="screenshot 1" width="320">
+
 Download
 --------
 [ ![Download](https://api.bintray.com/packages/dmitrikudrenko/maven/Pragmatica-TextView/images/download.svg) ](https://bintray.com/dmitrikudrenko/maven/Pragmatica-TextView/_latestVersion)
